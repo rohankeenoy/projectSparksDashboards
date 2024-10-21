@@ -1,0 +1,39 @@
+.navbar-button {
+    background-color: #008f70; /* Button background color */
+    color: white;              /* Text color */
+    border: none;              /* Remove border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    cursor: pointer;           /* Pointer cursor on hover */
+    margin: 0 5px;            /* Margin between buttons */
+    transition: background-color 0.3s; /* Smooth transition on hover */
+    font-size: large;
+}
+
+.navbar-button:hover {
+    background-color: #00e7c1; /* Darker shade on hover */
+}
+.pageHeader{
+    color: #008f70;
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+.pageHeader2{
+    color: #008f70;
+    font-size: 40px;
+    text-decoration: underline;
+   
+}
+.pInstruct{
+    font-size:30px;
+    color: #008f70;
+    text-align: left;
+}
+p{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size:30px;
+    color: #008f70;
+}
